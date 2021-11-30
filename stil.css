@@ -1,0 +1,84 @@
+h1{
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		color:MidnightBlue;
+	}
+h2{
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		color:#3366ff;
+		font-weight: bold;
+}
+h3{
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		color:#ff0066;
+	}
+	
+.motto {
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		color:MidnightBlue;
+		font-size: 1.7em;
+		font-weight: bold;
+	}	
+body { background-color:#ffe6ff; }
+#baraprabusibila{font-size: 0.7em;
+}
+#desprenoi p {
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		font-size:1.27em;
+		color:MidnightBlue;
+	}
+li {
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		font-size:1.3em;
+	}
+
+.list-group-item-danger {
+							font-weight:bold;}
+	.container-fluid {
+		font-family: Arial, Verdana, Helvetica, sans-serif;
+		font-size:1.3em;
+		color:MidnightBlue;
+	}
+	a{ text-decoration:none; 
+		
+	}
+.descriere1 {
+		border-left-style: solid;
+		border-left-color: #42a0ff;
+		background-color: #d7ebff;
+		border-left-width: 5px;
+		padding: 5px;
+		}
+.scena {	
+		border: 3px solid black;
+		padding: 2px;
+ }		
+ .descriere2 {
+		border-left-style: solid;
+		border-left-width: 5px;
+		border-left-color: #8E24AA;
+		padding: 5px;
+		background-color:#E1BEE7;
+		}
+.descriere3 {
+		border-left-style: solid;
+		border-left-width: 5px;
+		border-left-color: #283593;
+		padding: 7px;
+		background-color: #C5CAE9;
+		}
+.descriere4 {
+		border-left-style: solid;
+		border-left-width: 5px;
+		border-left-color: #FF7043;
+		padding: 7px;
+		background-color: #FFCCBC;
+		}
+footer {
+	background-color:   #ff9999;
+	}
+.facebook {
+	height:50px;		
+			}
+.instagram {
+			height:50px;		
+			}	
